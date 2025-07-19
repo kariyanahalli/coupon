@@ -2,7 +2,7 @@
 
 ## User Attribute Analysis
 
-In this analysis I analysed who is likely to accept the coupons
+In this effort, based on the given data -  I analysed who is likely to accept the coupons by various user attributes
 
 - Age Group
 - Gender
@@ -19,6 +19,8 @@ For e.g., : Drivers - going to bars frequently, and not traveling with children,
 
 Acceptance Rate based on Passenger type
 
+![Acceptance Rate](/images/passenger_acceptance.png)
+
 ## User Atrribute correlation against other User Attribute correlation
 
 No clear indications.
@@ -27,7 +29,7 @@ No clear indications.
 
 ## Summary
 
-In conclusion this effort I achieved 
+In conclusion, by this effort I achieved 
 
 - Tried understanding user behavior based on demographics, habits and context
 - Visualize acceptance rate across various groups
